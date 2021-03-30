@@ -1,5 +1,3 @@
-Attribute VB_Name = "Module1"
-
 Sub stockloop()
 
 Dim ticker_symbol As String
